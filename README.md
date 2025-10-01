@@ -1,4 +1,4 @@
-# 🜏 Code Crusade
+# 🜏 CODE CRUSADE
 
 > “Logic is the blade. Code is the battlefield. Every problem is a foe, and only the clever survive.”
 
@@ -14,14 +14,14 @@ This crusade sharpens **logic, strategy, and code mastery** — forging the mind
 
 ---
 
-## Hall of Conquests
+##  Hall of Conquests
 
-| Boss # | Problem | Status | Weapon Used |
-|--------|---------|--------|-------------|
-| 001    | Multiples of 3 and 5 | ✅ Defeated | Python |
-| 002    | Even Fibonacci Numbers | 🔄 In Progress | Python |
-| 003    | Largest Prime Factor | ❌ Pending | – |
-| …      | …                     | –      | – |
+| Boss # | Problem                     | Status     |
+|--------|-----------------------------|------------|
+| 001    | Multiples of 3 and 5        | ✅ Completed |
+| 002    | Even Fibonacci Numbers      | ✅ Completed |
+| 003    | Largest Prime Factor        | ✅ Completed |
+| …      | …                           | ✅ Completed |
 
 ---
 
