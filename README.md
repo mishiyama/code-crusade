@@ -20,10 +20,10 @@ This crusade sharpens **logic, strategy, and code mastery** — forging the mind
 
 | Boss # | Problem                     | Status     |
 |--------|-----------------------------|------------|
-| 001    | Multiples of 3 and 5        | ✅ Completed |
-| 002    | Even Fibonacci Numbers      | ✅ Completed |
-| 003    | Largest Prime Factor        | ✅ Completed |
-| …      | …                           | ✅ Completed |
+| 001    | Multiples of 3 and 5        | Completed |
+| 002    | Even Fibonacci Numbers      | Completed |
+| 003    | Largest Prime Factor        | Completed |
+<!-- |    004   |                            | Completed | -->
 
 ---
 
