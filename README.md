@@ -32,4 +32,4 @@ This crusade sharpens **logic, strategy, and code mastery** — forging the mind
 ```bash
 git clone https://github.com/mishiyama/code-crusade.git
 cd code-crusade/problem-001
-python solution.py
+python (filename).py
