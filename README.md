@@ -25,7 +25,7 @@ This crusade sharpens **logic, strategy, and code mastery** — forging the mind
 | 003    | Largest Prime Factor        | Completed |
 | 004   | Largest Palindrome Product   | Completed | 
  |  005   |     Smallest Multiple                       | Completed |
-<!-- |    004   |                            | Completed | -->
+|    006  |   Difference between the sum of sqaures of first one hundred                | Completed | 
 <!-- |    004   |                            | Completed | -->
 <!-- |    004   |                            | Completed | -->
 <!-- |    004   |                            | Completed | -->
